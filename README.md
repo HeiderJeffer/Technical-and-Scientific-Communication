@@ -1,5 +1,11 @@
-Technical-and-Scientific-Communication \| Free University of
-Bozen-Bolzano
+Technical-and-Scientific-Communication \| Free University of Bozen-Bolzano
+
+
+<body>
+<img src = "https://github-vistors-counter.onrender.com/github?username=https://github.com/HeiderJeffer/Technical-and-Scientific-Communication/" alt = "Visitors-Counter"/>
+</body>
+
+
 
 Prof. Giancarlo Guizzardi
 
